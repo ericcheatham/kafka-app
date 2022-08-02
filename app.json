@@ -1,0 +1,7 @@
+{
+    "name": "kafka-app",
+    "language": "python",
+    "resources": {
+        "source_name": "fixtures/demo-cdc.json"
+    }
+}
