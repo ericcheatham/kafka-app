@@ -1,6 +1,2 @@
-/build
-/src/*.egg-info
-
-__pycache__
-
-.DS_Store
+__pycache__/
+venv/
